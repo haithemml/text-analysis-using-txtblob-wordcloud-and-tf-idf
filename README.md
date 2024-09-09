@@ -1,0 +1,1 @@
+Text analysis encompasses a number of methods, including text classification, named entity identification, sentiment analysis, topic modelling, and text preprocessing. Understanding and making sense of massive amounts of text data requires text analysis.
